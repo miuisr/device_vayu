@@ -2,10 +2,6 @@
 
 ## Download
 - [Latest](https://github.com/miuisr)
-- 
-- [Latest](https://github.com/miuisr)
-- [Latest](https://github.com/miuisr)
-- [Latest](https://github.com/miuisr)
 
 
 ## Device picture
