@@ -1,6 +1,6 @@
 ## Hello, People! <img src="https://github.com/miuisr/miuisr/blob/main/extras/wave.gif" width="30px" height="30px" />
 
-## Download
+### Download
 - <a href="#">Latest</a>
 
 - <a href="#">Latest</a>
