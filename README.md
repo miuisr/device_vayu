@@ -21,4 +21,4 @@ Display | IPS LCD, 120Hz, HDR10, 450 nits (typ), 6.67 inches, 1080 x 2400 pixels
 
 ## Device picture
 
-![Poco X3 Pro](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x3-pro-1.jpg "Poco X3 Pro")
+![Poco X3 Pro](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x3-pro-.jpg "Poco X3 Pro")
