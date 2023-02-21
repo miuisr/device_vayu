@@ -6,7 +6,7 @@
 
 ## Device picture
 
-![Poco X3 Pro](https://github.com/miuisr/miuisr/blob/main/image_devices/vayu.png "Poco X3 Pro")
+![Poco X3 Pro](https://cloud.miuisr.ml/api/raw/?path=/MIUISR/Images/devices/vayu.png "Poco X3 Pro")
 
 Device configuration for Poco X3 Pro
 =========================================
