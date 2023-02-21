@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://github.com/miuisr/miuisr/blob/main/extras/wave.gif" width="30px" height="30px" />
+## Hello, People! <img src="https://github.com/miuisr/miuisr/blob/main/extras/wave.gif" width="30px" height="30px" />
 
 ## Download
 - <a href="#">Latest</a>
