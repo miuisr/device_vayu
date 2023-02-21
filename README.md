@@ -1,11 +1,10 @@
 ## Hello, People! <img src="https://github.com/miuisr/miuisr/blob/main/extras/wave.gif" width="30px" height="30px" />
 
 ### Download
-- <a href="#">Latest</a>
-
-- <a href="#">Latest</a>
-- <a href="#">Latest</a>
-- <a href="#">Latest</a>
+- [Latest](https://github.com/miuisr)
+- [Latest](https://github.com/miuisr)
+- [Latest](https://github.com/miuisr)
+- [Latest](https://github.com/miuisr)
 
 
 ## Device picture
