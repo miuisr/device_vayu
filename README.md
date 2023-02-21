@@ -1,4 +1,7 @@
-Copyright (C) 2021 Android Open Source Project
+
+## Device picture
+
+![Poco X3 Pro](https://github.com/miuisr/miuisr/blob/main/image_devices/vayu.png "Poco X3 Pro")
 
 Device configuration for Poco X3 Pro
 =========================================
@@ -19,6 +22,3 @@ Shipped Android Version | Android 11, MIUI 12 for POCO
 Battery | Li-Po 5160 mAh, non-removable
 Display | IPS LCD, 120Hz, HDR10, 450 nits (typ), 6.67 inches, 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
 
-## Device picture
-
-![Poco X3 Pro](https://github.com/miuisr/miuisr/blob/main/image_devices/vayu.png "Poco X3 Pro")
