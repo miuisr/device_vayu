@@ -1,4 +1,4 @@
-### Download
+## Download
 - [Latest](https://github.com/miuisr)
 
 
@@ -6,7 +6,7 @@
 
 ![Poco X3 Pro](https://cloud.miuisr.ml/api/raw/?path=/MIUISR/Images/devices/vayu.png "Poco X3 Pro")
 
-Device configuration for Poco X3 Pro
+## Device configuration for Poco X3 Pro
 =========================================
 
 The Poco X3 Pro (codenamed _"vayu"_) is a high-end smartphone from POCO.
