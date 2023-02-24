@@ -1,3 +1,1 @@
-{ 
-  "device_name": "Vayu | Poco X3"
-}
+{ "name": "John", "age": 30, "salary": 5000, "city": "New York", "skills": ["JavaScript", "CSS", "HTML"] }
