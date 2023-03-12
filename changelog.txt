@@ -2,6 +2,32 @@
 * Based:- Cn 14.0.5.0
 ####### March Update
 
+###hotfix 12.03.23:-
++ Fix- Dual sim verification
+   problem in payment apps 
++ Fix-Assistant logo crash
++ Add- Ios emoji
++ Link privacy icon disable switch
+   with green dot switch
++ Add- dt2s on statusbar
++ Add- notch style (default,ring ,
+   ring extended) and also custom
+   color option 
++ Add- reboot button hide on
+   notification panel
++ Add- Column number for Toggle
+   in new control centre 
++ Add- SR mod AOD , Monet
+   support for it
++ Expanded support of monet
+   icons and Monet apps like
+   camera , aod , gallery , updated
+   existed non uniform icons
++ Fix- about phone device name
+   padding, updated icons , lab
+   optimization
+
+###Initial 04.03.23:-
 + Enforcing build
 + System is r/w ,decrypted , performance is riced
 + Fixed + SafetyNet Passed by default (with and without root both)
