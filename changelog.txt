@@ -2,6 +2,31 @@
 * Based:- Cn 14.0.5.0
 ####### March Update
 
+###hotfix 20.03.23:-
+Hotfix:-20.03.22
++ Hide iOS clock in landscape
+    mode , and linked with mi clock
+    apk
++ settings more defined , sr bump
+   version info ( to differentiate releases) , summary fixes ,
+   disabled unnecessary stuffs 
++ Add- Ios emoji
++ Fixed recents stuck after swipe
+   to kill apps start 
++ Added safety and emergency
+   section in main page
++ Fixes related to camera
++ Added back Miui setup ( Google
+   restore is also there )
++ Added New bootanimation (thanks to Alaa_nadi200)
++ Expanded support of monet
+   icons and Monet apps 
++ Fixed random background
+   crashes 
++ Fixed color issue when enable dialer call log customisation and quick app customisation
++ Sound related optimization
++ More don't remember
+
 ###hotfix 12.03.23:-
 + Fix- Dual sim verification
    problem in payment apps 
