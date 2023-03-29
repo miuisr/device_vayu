@@ -2,8 +2,36 @@
 * Based:- Cn 14.0.5.0
 ####### March Update
 
-###hotfix 20.03.23:-
-Hotfix:-20.03.22
+###hotfix 29.03.23:-
++ Bumped version to 1.0.3.5.0
++ Fixed some games crash like
+    from Come2Us
++ Fixed launcher crash and black
+    screen when enter second space 
++ Fixed Xiaomi cloud backup and
+    restore was not working 
++ Now Google assistant is set by
+   default 
++ On request enabled Lens option in Camera 
++ Added Fm radio and fixed
+   crashes
+• Added Gesture anywhere
+   control
++ Add haptics when return home from any apps
++ Added status bar icons hide
+    option like nfc , headset ,alarm ,
+    dnd ...
++ Added toggle rows number
+    option 
++ Digital wellbeing has now focus
+   mode and also a tile in control
+   panel
++ Included mod gallery editor with
+     many features unlocked 
++ Expanded support of monet
+   icons and Monet apps
+
+###Hotfix:-20.03.22
 + Hide iOS clock in landscape
     mode , and linked with mi clock
     apk
