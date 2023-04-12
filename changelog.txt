@@ -2,6 +2,20 @@
 * Based:- Cn 14.0.5.0
 ####### March Update
 
+##hotfix
+Bumped version to 1.0.3.7.0
+Fixed some payment app crash due to policy
+Fixed Autobrightness (try and report)
+Fixed dual sim verification problem
+Fixed Sms Block feature
+Added Volte and vowifi icon hide option
+Fixed old power menu style options
+Added about phone cos13 storage style
+Removed movie effect from gallery
+AI image enhance
+Fixes force fps option
+
+
 ###hotfix 29.03.23:-
 + Bumped version to 1.0.3.5.0
 + Fixed some games crash like
